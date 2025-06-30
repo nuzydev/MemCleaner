@@ -20,7 +20,7 @@ Ferramenta C++ para Windows que localiza e substitui strings sensíveis na memó
 
 ### 🏗️ Compilando com g++ (MinGW)
 
-g++ main.cpp memory_cleaner.cpp -o nuller.exe -static -lpsapi
+g++ main.cpp memory_cleaner.cpp -o MemCleaner.exe -static -lpsapi
 
 Ou via Visual Studio:
 - Crie um projeto C++ Console
